@@ -127,3 +127,7 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# 로컬 테스트 파일
+test/
+*.zip
